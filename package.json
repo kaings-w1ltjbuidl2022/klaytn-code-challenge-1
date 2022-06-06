@@ -1,0 +1,26 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "description": "sum of all multiple of 3 or 5",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaings-w1ltjbuidl2022/klaytn-code-challenge-1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaings-w1ltjbuidl2022/klaytn-code-challenge-1/issues"
+  },
+  "homepage": "https://github.com/kaings-w1ltjbuidl2022/klaytn-code-challenge-1#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
